@@ -1,6 +1,6 @@
 ### Hi there, I'm Shane 👋
 
-## I'm a student and coding hobbyist
+## I'm a student and coding hobbyist.
 - 🎮 I run a CS:GO gaming community called [Viquity][website]!
 - 🚀 I’m currently contributing to CS:GO League - A self-hosted CS:GO matchmaking service. 🤣
 - 🥅 2020 Goals: Learn JavaScript and more HTML/CSS.
