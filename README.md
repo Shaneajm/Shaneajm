@@ -2,7 +2,7 @@
 
 ## I'm a student and coding hobbyist.
 - 🎮 I run a CS:GO gaming community called [Viquity][website]!
-- 🚀 I’m currently contributing to CS:GO League - A self-hosted CS:GO matchmaking service. 🤣
+- 🚀 I’m currently contributing to [CS:GO League][leaguegh] - A self-hosted CS:GO matchmaking service. 🤣
 - 🥅 2020 Goals: Learn JavaScript and more HTML/CSS.
 
 ### Connect with me:
@@ -38,3 +38,4 @@
 [twitter]: https://twitter.com/shaneajm
 [youtube]: https://www.youtube.com/shaneajm
 [instagram]: https://instagram.com/shaneajm
+[leaguegh]: https://github.com/csgo-league
