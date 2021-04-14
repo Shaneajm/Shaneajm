@@ -28,7 +28,7 @@
 ---
 
 ### 📺 Latest YouTube Videos
-- [Access Your Home Network From ANYWHERE! - PiVPN Tutorial 2020!](https://www.youtube.com/watch?v=LXm5jlSW9KU)
+- [Block Ads On Every Device! - AdGuard Home on Raspberry Pi](https://www.youtube.com/watch?v=q_aM3gC9o4s)
 ---
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaneajm&show_icons=true&hide_border=true" />
