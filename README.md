@@ -3,7 +3,7 @@
 ## I'm a student and coding hobbyist.
 - 🎮 I run a CS:GO gaming community called [Viquity][website]!
 - 🚀 I’m currently contributing to [CS:GO League][leaguegh] - A self-hosted CS:GO 10 man system.
-- 🥅 2020 Goals: Learn JavaScript and more HTML/CSS.
+- 🥅 2021 Goals: Learn Express/NodeJS.
 
 ### Connect with me:
 
