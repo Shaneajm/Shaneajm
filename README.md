@@ -1,7 +1,7 @@
 ### Hi there, I'm Shane 👋
 
 ## I'm a student and coding hobbyist.
-- 🎮 I run a CS:GO gaming community called [VIQUITY.PRO][website]!
+- 🎮 I run a CS:GO gaming community called [Viquity][website]!
 - 🚀 2023 Goals: Code more and Learn SvelteKit.
 
 ### Connect with me:
@@ -29,3 +29,9 @@
 ---
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaneajm&show_icons=true&hide_border=true" />
+
+[website]: https://viquity.pro
+[twitter]: https://twitter.com/shaneajm
+[youtube]: https://www.youtube.com/shaneajm
+[instagram]: https://instagram.com/shaneajm
+[leaguegh]: https://github.com/csgo-league
