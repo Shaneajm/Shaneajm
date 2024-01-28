@@ -1,8 +1,8 @@
 ### Hi there, I'm Shane 👋
 
 ## I'm a student and coding hobbyist.
-- 🎮 I run a CS:GO gaming community called [Viquity][website]!
-- 🚀 2023 Goals: Code more and Learn SvelteKit.
+- 🎮 I run a CS2 gaming community called [Viquity][website]!
+- 🚀 2024 Goals: Learn to code better!
 
 ### Connect with me:
 
